@@ -1,0 +1,12 @@
+/src
+  ├── components
+  │   ├── Home.js
+  │   ├── Projects.js
+  │   ├── ProjectDetail.js
+  │   ├── UserProfile.js
+  │   ├── MintNFT.js
+  │   ├── Auth.js
+  │   ├── About.js
+  │   ├── Navbar.js
+  ├── App.js
+  └── index.js
